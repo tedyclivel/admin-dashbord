@@ -2534,7 +2534,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@syncfusion/ej2-buttons@npm:~19.4.52, @syncfusion/ej2-buttons@npm:~19.4.53, @syncfusion/ej2-buttons@npm:~19.4.55":
+"@syncfusion/ej2-buttons@npm:19.4.55, @syncfusion/ej2-buttons@npm:~19.4.52, @syncfusion/ej2-buttons@npm:~19.4.53, @syncfusion/ej2-buttons@npm:~19.4.55":
   version: 19.4.55
   resolution: "@syncfusion/ej2-buttons@npm:19.4.55"
   dependencies:
@@ -4283,6 +4283,7 @@ __metadata:
   resolution: "aura-dashboard@workspace:."
   dependencies:
     "@syncfusion/ej2": "npm:^19.4.48"
+    "@syncfusion/ej2-buttons": "npm:19.4.55"
     "@syncfusion/ej2-react-calendars": "npm:^19.4.48"
     "@syncfusion/ej2-react-charts": "npm:^19.4.50"
     "@syncfusion/ej2-react-dropdowns": "npm:^19.4.52"

@@ -1,7 +1,7 @@
 ## Contributing
 
-[fork]: https://github.com/sanidhyy/admin-dashboard/fork
-[pr]: https://github.com/sanidhyy/admin-dashboard/compare
+[fork]: https://github.com/tedyclivel
+[pr]: https://github.com/tedyclivel
 [style]: https://standardjs.com/
 [code-of-conduct]: CODE_OF_CONDUCT.md
 

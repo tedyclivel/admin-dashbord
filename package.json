@@ -1,13 +1,13 @@
 {
-  "name": "admin-dashboard",
+  "name": "aura-dashboard",
   "version": "0.1.0",
   "private": true,
-  "author": "Sanidhya Kr. Verma",
-  "description": "Best Admin Dashboard using React JS",
+  "author": "Tedy Clivel",
+  "description": "Aura admin dashboard",
   "keywords": [
     "reactjs",
     "react",
-    "admin-dashboard",
+    "aura-dashboard",
     "tailwindcss",
     "syncfusion",
     "js",
